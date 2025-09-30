@@ -1,0 +1,31 @@
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\NOT_SALES__DIFF_CHK.exe
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\NOT_SALES__DIFF_CHK.pdb
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.UI.Controls.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.UI.Common.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.Common.Files.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.SharedDataContract.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.UI.Variables.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\OZWPFViewer_Lib.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.UI.DataAuthentication.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.SequencalDataTransfer.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.UI.Providers.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.WcfContract.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.DataBridgeCarrier.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.UI.WebCommunicator.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.DataBridge.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.UI.Common.xml
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.UI.Controls.xml
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.UI.Variables.xml
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.UI.Providers.xml
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.DataBridge.xml
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\bin\Debug\uniERP.AppFramework.DataBridge.XmlSerializers.dll
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\obj\Debug\ResolveAssemblyReference.cache
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\obj\Debug\NOT_SALES__DIFF_CHK.csproj.ResolveComReference.cache
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\obj\Debug\NOT_SALES__DIFF_CHK.csproj.GenerateResource.Cache
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\obj\Debug\NOT_SALES__DIFF_CHK.exe
+C:\my\01.업무관련자료\29.적송창고 미매출현황\Packing_wait_ver1.0\Packing_wait\obj\Debug\NOT_SALES__DIFF_CHK.pdb
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\NOT_SALES__DIFF_CHK.csproj.ResolveComReference.cache
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\NOT_SALES__DIFF_CHK.exe
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\NOT_SALES__DIFF_CHK.pdb

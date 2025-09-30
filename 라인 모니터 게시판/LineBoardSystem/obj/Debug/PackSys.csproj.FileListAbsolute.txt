@@ -1,0 +1,59 @@
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\bin\Debug\PackSys.exe
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\bin\Debug\PackSys.pdb
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\bin\Debug\office.dll
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\PackSys.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\PackSys.Form1.resources
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\PackSys.Properties.Resources.resources
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\PackSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\PackSys.exe
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\PackSys.pdb
+\\192.168.3.56\samjin\02.Program Data\03.모니터링 프로그램\포장입고의뢰모니터링\PackingSystem\obj\Debug\PackSys.csproj.ResolveComReference.cache
+\\192.168.3.56\samjin\02.Program Data\03.모니터링 프로그램\포장입고의뢰모니터링\PackingSystem\obj\Debug\PackSys.exe
+\\192.168.3.56\samjin\02.Program Data\03.모니터링 프로그램\포장입고의뢰모니터링\PackingSystem\obj\Debug\PackSys.pdb
+\\192.168.3.56\samjin\02.Program Data\03.모니터링 프로그램\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.csproj.ResolveComReference.cache
+\\192.168.3.56\samjin\02.Program Data\03.모니터링 프로그램\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.exe
+\\192.168.3.56\samjin\02.Program Data\03.모니터링 프로그램\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.pdb
+Z:\02.Program Data\03.모니터링 프로그램\포장입고의뢰모니터링\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.csproj.ResolveComReference.cache
+Z:\02.Program Data\03.모니터링 프로그램\포장입고의뢰모니터링\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.exe
+Z:\02.Program Data\03.모니터링 프로그램\포장입고의뢰모니터링\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.pdb
+C:\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.csproj.ResolveComReference.cache
+C:\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.Form1.resources
+C:\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.Properties.Resources.resources
+C:\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.csproj.GenerateResource.Cache
+C:\포장입고의뢰모니터링(영업)\PackingSystem\bin\Debug\PackSys.exe
+C:\포장입고의뢰모니터링(영업)\PackingSystem\bin\Debug\PackSys.pdb
+C:\포장입고의뢰모니터링(영업)\PackingSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\포장입고의뢰모니터링(영업)\PackingSystem\bin\Debug\office.dll
+C:\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.exe
+C:\포장입고의뢰모니터링(영업)\PackingSystem\obj\Debug\PackSys.pdb
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.exe
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.pdb
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\bin\Debug\PackSys.exe
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\bin\Debug\PackSys.pdb
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\bin\Debug\office.dll
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.Form1.resources
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ERP백업\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.csproj.GenerateResource.Cache
+C:\라인 모니터 게시판\PackingSystem\bin\Debug\PackSys.exe
+C:\라인 모니터 게시판\PackingSystem\bin\Debug\PackSys.pdb
+C:\라인 모니터 게시판\PackingSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\라인 모니터 게시판\PackingSystem\bin\Debug\office.dll
+C:\라인 모니터 게시판\PackingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.csproj.ResolveComReference.cache
+C:\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.Form1.resources
+C:\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.Properties.Resources.resources
+C:\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.csproj.GenerateResource.Cache
+C:\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.exe
+C:\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.pdb
+\\192.168.3.7\d$\99.ERP문서\02.개발소스\03. 생산관리\17. 현장공지관리\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.csproj.ResolveComReference.cache
+\\192.168.3.7\d$\99.ERP문서\02.개발소스\03. 생산관리\17. 현장공지관리\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.exe
+\\192.168.3.7\d$\99.ERP문서\02.개발소스\03. 생산관리\17. 현장공지관리\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.pdb
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.csproj.ResolveComReference.cache
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.exe
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\obj\Debug\PackSys.pdb

@@ -1,0 +1,33 @@
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\AndonSystem.csproj.ResolveComReference.cache
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\AndonSystem.exe
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\AndonSystem.pdb
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Common.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.Common.Files.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.SharedDataContract.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Variables.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\OZWPFViewer_Lib.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.DataAuthentication.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.SequencalDataTransfer.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Providers.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.WcfContract.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.DataBridgeCarrier.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.WebCommunicator.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.DataBridge.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Common.xml
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Controls.xml
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Variables.xml
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Providers.xml
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.DataBridge.xml
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.DataBridge.XmlSerializers.dll
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\AndonSystem.Form1.resources
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\AndonSystem.Properties.Resources.resources
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\AndonSystem.csproj.GenerateResource.Cache
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\AndonSystem.exe
+C:\my\01.업무관련자료\28.안돈시스템\안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\AndonSystem.pdb
+C:\my\01.업무관련자료\28.안돈시스템\99.안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\AndonSystem.csproj.ResolveComReference.cache
+C:\my\01.업무관련자료\28.안돈시스템\99.안돈시스템_개발\AndoSystem_ver1.0\AndoSystem\obj\Debug\AndonSystem.pdb
+Z:\02.Program Data\안돈시스템\AndoSystem_ver1.0\AndoSystem\obj\Debug\AndonSystem.csproj.ResolveComReference.cache
+Z:\02.Program Data\안돈시스템\AndoSystem_ver1.0\AndoSystem\obj\Debug\AndonSystem.pdb
+C:\UNIERP.NET\uniERP\App\UI\GlovisCheck_ver1.0\AndoSystem\obj\Debug\AndonSystem.csproj.ResolveComReference.cache
+C:\UNIERP.NET\uniERP\App\UI\GlovisCheck_ver1.0\AndoSystem\obj\Debug\AndonSystem.pdb

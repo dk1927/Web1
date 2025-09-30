@@ -1,0 +1,11 @@
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\bin\Debug\LineBoardSys.exe
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\bin\Debug\LineBoardSys.pdb
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\bin\Debug\office.dll
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\obj\Debug\LineBoardSys.csproj.ResolveComReference.cache
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\obj\Debug\LineBoardSys.Form1.resources
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\obj\Debug\LineBoardSys.Properties.Resources.resources
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\obj\Debug\LineBoardSys.csproj.GenerateResource.Cache
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\obj\Debug\LineBoardSys.exe
+C:\Users\ssonya\Desktop\라인 모니터 게시판\PackingSystem\obj\Debug\LineBoardSys.pdb

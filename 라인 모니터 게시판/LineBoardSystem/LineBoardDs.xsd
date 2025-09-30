@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CKECK_LIST" msprop:Generator_UserTableName="CKECK_LIST" msprop:Generator_RowDeletedName="CKECK_LISTRowDeleted" msprop:Generator_RowChangedName="CKECK_LISTRowChanged" msprop:Generator_RowClassName="CKECK_LISTRow" msprop:Generator_RowChangingName="CKECK_LISTRowChanging" msprop:Generator_RowEvArgName="CKECK_LISTRowChangeEvent" msprop:Generator_RowEvHandlerName="CKECK_LISTRowChangeEventHandler" msprop:Generator_TableClassName="CKECK_LISTDataTable" msprop:Generator_TableVarName="tableCKECK_LIST" msprop:Generator_RowDeletingName="CKECK_LISTRowDeleting" msprop:Generator_TablePropName="CKECK_LIST">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="품목" msprop:Generator_UserColumnName="품목" msprop:Generator_ColumnVarNameInTable="column품목" msprop:Generator_ColumnPropNameInRow="품목" msprop:Generator_ColumnPropNameInTable="품목Column" type="xs:string" minOccurs="0" />
+              <xs:element name="품명" msprop:Generator_UserColumnName="품명" msprop:Generator_ColumnVarNameInTable="column품명" msprop:Generator_ColumnPropNameInRow="품명" msprop:Generator_ColumnPropNameInTable="품명Column" type="xs:string" minOccurs="0" />
+              <xs:element name="규격" msprop:Generator_UserColumnName="규격" msprop:Generator_ColumnVarNameInTable="column규격" msprop:Generator_ColumnPropNameInRow="규격" msprop:Generator_ColumnPropNameInTable="규격Column" type="xs:string" minOccurs="0" />
+              <xs:element name="사양" msprop:Generator_UserColumnName="사양" msprop:Generator_ColumnVarNameInTable="column사양" msprop:Generator_ColumnPropNameInRow="사양" msprop:Generator_ColumnPropNameInTable="사양Column" type="xs:string" minOccurs="0" />
+              <xs:element name="재질" msprop:Generator_UserColumnName="재질" msprop:Generator_ColumnVarNameInTable="column재질" msprop:Generator_ColumnPropNameInRow="재질" msprop:Generator_ColumnPropNameInTable="재질Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="긴급품_x0020_요청사항" msprop:Generator_UserColumnName="긴급품 요청사항" msprop:Generator_ColumnVarNameInTable="column긴급품_요청사항" msprop:Generator_ColumnPropNameInRow="긴급품_요청사항" msprop:Generator_ColumnPropNameInTable="긴급품_요청사항Column" type="xs:string" minOccurs="0" />
+              <xs:element name="공지사항" msprop:Generator_UserColumnName="공지사항" msprop:Generator_ColumnPropNameInRow="공지사항" msprop:Generator_ColumnVarNameInTable="column공지사항" msprop:Generator_ColumnPropNameInTable="공지사항Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="공장" msprop:Generator_UserColumnName="공장" msprop:Generator_ColumnVarNameInTable="column공장" msprop:Generator_ColumnPropNameInRow="공장" msprop:Generator_ColumnPropNameInTable="공장Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="구분" msprop:Generator_UserColumnName="구분" msprop:Generator_ColumnVarNameInTable="column구분" msprop:Generator_ColumnPropNameInRow="구분" msprop:Generator_ColumnPropNameInTable="구분Column" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

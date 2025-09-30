@@ -1,0 +1,61 @@
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\bin\Debug\Dnlog.exe
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\bin\Debug\Dnlog.pdb
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\bin\Debug\office.dll
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.csproj.ResolveComReference.cache
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.Form1.resources
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.Properties.Resources.resources
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.csproj.GenerateResource.Cache
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.exe
+C:\03.모니터링 프로그램\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.pdb
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\Dnlog.exe
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\Dnlog.pdb
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Controls.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Common.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.Common.Files.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.SharedDataContract.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Variables.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\OZWPFViewer_Lib.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Providers.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.WebCommunicator.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.DataAuthentication.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.WcfContract.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.DataBridgeCarrier.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.SequencalDataTransfer.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.DataBridge.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Common.xml
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Controls.xml
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Variables.xml
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.UI.Providers.xml
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.DataBridge.xml
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\bin\Debug\uniERP.AppFramework.DataBridge.XmlSerializers.dll
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.csproj.ResolveComReference.cache
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.Form1.resources
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.Properties.Resources.resources
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.csproj.GenerateResource.Cache
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.exe
+C:\UNIERP.NET\uniERP\App\UI\DnlogCheck_ver1.0\AndoSystem\obj\Debug\Dnlog.pdb
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\bin\Debug\Dnlog.exe
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\bin\Debug\Dnlog.pdb
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\bin\Debug\office.dll
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\obj\Debug\Dnlog.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\obj\Debug\Dnlog.Form1.resources
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\obj\Debug\Dnlog.Properties.Resources.resources
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\obj\Debug\Dnlog.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\obj\Debug\Dnlog.exe
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\AndoSystem\obj\Debug\Dnlog.pdb
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\bin\Debug\Dnlog.exe
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\bin\Debug\Dnlog.pdb
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\bin\Debug\office.dll
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\Dnlog.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\Dnlog.Form1.resources
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\Dnlog.Properties.Resources.resources
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\Dnlog.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\Dnlog.exe
+C:\Users\Administrator\Desktop\포장입고의뢰모니터링\PackingSystem\obj\Debug\Dnlog.pdb
